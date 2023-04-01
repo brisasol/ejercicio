@@ -1,0 +1,26 @@
+body{background-color: #25f4e9;}
+h1{color: red;}
+h2{color: rgb(28, 79, 230);
+text-decoration: underline;
+font-style: italic;}
+span.code {font-weight: bold;
+    font-family: Courier;}
+
+span.mayor {font-size: xx-large;}
+
+span.menor {font-size: xx-small;}
+
+table.tabla1 {margin: 0;						
+        padding: 0;
+        background-color: blue;
+        border: thin none black;
+        width:100%;
+        box-align: left;}
+
+td {padding: 0;
+margin: 0;
+border: thick solid black;
+color: yellow;}
+
+td.rojo {background-color: red;			
+    color: white;}
